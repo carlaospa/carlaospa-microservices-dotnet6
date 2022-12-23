@@ -1750,11 +1750,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\S07_Microservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\S07_Microservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\carla\\.nuget\\packages\\",
-      "outputPath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\S07_Microservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carla\\AppData\\Roaming\\NuGet\\NuGet.Config",

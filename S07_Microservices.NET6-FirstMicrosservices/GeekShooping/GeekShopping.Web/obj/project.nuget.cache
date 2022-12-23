@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GO+sy6wWnj4xlihzsdndYkkCKp5LpcZAQmhu4UYZoaaE3aAUHky0CwSXMNLcu03KEiwLEfnZxPxb90qtH5wuWA==",
+  "dgSpecHash": "3fqoinCgO+msaSN1i8tge8/t6Brc9sZHiHkeX0UHiF6ivw21rhhG6cFlRatmFW+h7LePs5lASyIPyBYf08iuBA==",
   "success": true,
-  "projectFilePath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "D:\\treinamento-cap\\.NET6\\curso\\carlaospa-microservices-dotnet6\\S07_Microservices.NET6-FirstMicrosservices\\GeekShooping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
